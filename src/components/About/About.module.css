@@ -1,0 +1,13 @@
+.container{
+    background-color:rgb(66, 15, 45, 0.8);
+    color: rgba(153, 205, 50);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 8px;
+    max-width: 1000px;
+    margin-left: 25%;
+}
+
+.img{
+    width: 320px;
+}

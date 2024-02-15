@@ -1,0 +1,28 @@
+.container{
+    background-color:rgb(66, 15, 45, 0.8);
+}
+
+.name{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    padding: 8px;
+    color: rgb(147, 226, 240);
+}
+
+.imagen{
+    border-radius: 300px;
+    width: 500px;
+    margin-left: 800px;
+    display: inline-block;
+}
+
+.descripcion{
+    border: 3px solid rgb(147, 226, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline-block;
+    font-size: 25px;
+    color: rgb(147, 226, 240);
+    margin-bottom: 150px;
+    margin-left: 200px;
+}

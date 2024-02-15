@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(60, 60, 172);
+    display: flex;
+}
+
+.boton{
+    padding: 10px;
+    margin-left: 10%;
+    border-radius: 8px;
+    border: 2px solid black;
+    background-color: rgb(147, 226, 240);
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.botonContainer{
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.searchContainer{
+    text-align: center;
+    background-color:rgb(66, 15, 45);
+    padding: 1em;
+    margin: 10px;
+    margin-left: 400px;
+    width: 30%;
+    border-radius: 50%;
+    display: inline-block;
+}

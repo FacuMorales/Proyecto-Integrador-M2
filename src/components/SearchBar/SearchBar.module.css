@@ -1,0 +1,16 @@
+.boton{
+    padding: 10px;
+    margin-left: 10%;
+    border-radius: 8px;
+    border: 2px solid black;
+    background-color: rgb(147, 226, 240);
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.input{
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid black;
+    background-color: rgb(196, 195, 195);
+}
